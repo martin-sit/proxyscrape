@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "📦 A simple proxyscrape.com wrapper to access the Proxyscrape API.",
   "main": "index.js",
+  "repository": "https://github.com/martin-sit/proxyscrape",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "keywords": [
     "proxyscrape",
