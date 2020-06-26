@@ -1,0 +1,20 @@
+{
+  "name": "proxyscrape",
+  "version": "1.0.0",
+  "description": "📦 A simple proxyscrape.com wrapper to access the Proxyscrape API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxyscrape",
+    "proxies",
+    "api",
+    "wrapper"
+  ],
+  "author": "Martin Sit",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
